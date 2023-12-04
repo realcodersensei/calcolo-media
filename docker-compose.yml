@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  c-environment:
+    build: .
+    volumes:
+      - ./src:/usr/src/myapp
+    command: bash
