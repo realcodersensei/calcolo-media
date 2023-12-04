@@ -85,7 +85,5 @@ printf("Media: %.2f\n", media);
 ```
 **Aspetto Tecnico**: Calcoliamo la media dividendo la `somma` totale per il numero di elementi `n`. Poi stampiamo la media usando `%f` per formattare l'output come un numero a virgola mobile.
 
-**Riflessione Filosofica**: Il calcolo della media rappresenta il bilanciamento e la sintesi delle diverse componenti, simile al modo in cui sintetizziamo le diverse esperienze della vita per formare una comprensione o una visione generale.
-
 ### Conclusione
 In questo programma, ogni passo, dalla dichiarazione delle variabili all'input dell'utente, dall'accumulazione dei dati al calcolo finale, può essere visto non solo come un processo tecnico ma anche come un riflesso di processi filosofici o di vita. La programmazione, in questo senso, diventa un metafora del pensiero e dell'esperienza umana, dove definizione, interazione, accumulazione e sintesi giocano ruoli cruciali.
